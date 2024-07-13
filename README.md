@@ -1,15 +1,4 @@
-from flask import Flask
-
-app = Flask(__name__)
-
-@app.route('/')
-def index():
-    return '''
-    <html>
-    <head>
-        <title>Profile</title>
-    </head>
-    <body>
+   <body>
         <h2 style="text-align: left;">Hi 👋! My name is Arib Hilmy</h2>
         <div style="text-align: center;">
             <a href="https://www.instagram.com/emha.a/" target="_blank">
