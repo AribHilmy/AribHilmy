@@ -21,13 +21,4 @@ def index():
         </div>
         <div style="clear: both;"></div>
         <div style="text-align: center;">
-            <a href="https://open.spotify.com/user/hilmyarib?si=50b47d3c5c654cfb">
-                <img src="https://open.spotify.com/user/hilmyarib/top/tracks" alt="Spotify recently played"  />
-            </a>
-        </div>
-    </body>
-    </html>
-    '''
-
-if __name__ == '__main__':
-    app.run(debug=True)
+            
